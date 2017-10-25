@@ -1,2 +1,2 @@
 # protect_branch
-induce failure
+make work
