@@ -1,2 +1,2 @@
 # protect_branch
-make work
+make
